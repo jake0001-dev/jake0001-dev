@@ -2,6 +2,6 @@
 
 
 <b>Main Projects</b><br>
-• [VulnExec](https://github.com/HarveyGW/VulnExec)
-• [VulnExec-JS](https://github.com/jake0001-dev/VulnExec-JS)
-• [Faceit Finder](https://github.com/jake0001-dev/faceit_finder)
+• [VulnExec](https://github.com/HarveyGW/VulnExec) <br>
+• [VulnExec-JS](https://github.com/jake0001-dev/VulnExec-JS) <br>
+• [Faceit Finder](https://github.com/jake0001-dev/faceit_finder) <br>
